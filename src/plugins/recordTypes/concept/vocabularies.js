@@ -28,5 +28,6 @@ export default {
     serviceConfig: {
       servicePath: 'urn:cspace:name(worktype)',
     },
+    disableAltTerms: true,
   },
 };

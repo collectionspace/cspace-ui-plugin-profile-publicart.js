@@ -25,5 +25,6 @@ export default {
     serviceConfig: {
       servicePath: 'urn:cspace:name(organization_shared)',
     },
+    disableAltTerms: true,
   },
 };
