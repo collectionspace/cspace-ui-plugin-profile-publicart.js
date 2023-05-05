@@ -92,6 +92,17 @@ export default (configContext) => {
             },
           },
         },
+        contentConcepts: {
+          contentConcept: {
+            [config]: {
+              view: {
+                props: {
+                  source: 'concept/associated',
+                },
+              },
+            },
+          },
+        },
         objectProductionDateGroupList: {
           // Replaced by publicartProductionDateGroupList. Hide from search.
           [config]: {

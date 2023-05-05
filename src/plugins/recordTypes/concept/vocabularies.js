@@ -4,9 +4,6 @@ export default {
   activity: {
     disabled: true,
   },
-  associated: {
-    disabled: true,
-  },
   worktype: {
     messages: defineMessages({
       name: {

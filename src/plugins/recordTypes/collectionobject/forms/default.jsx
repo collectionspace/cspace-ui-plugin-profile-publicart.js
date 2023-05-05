@@ -50,6 +50,10 @@ const template = (configContext) => {
               <Field name="briefDescription" />
             </Field>
 
+            <Field name="contentConcepts">
+              <Field name="contentConcept" />
+            </Field>
+
             <Field name="distinguishingFeatures" />
 
             <Field name="comments">

@@ -5,6 +5,8 @@ export default {
 
   'field.collectionobjects_common.objectNumber.name': 'Artwork ID',
   'field.collectionobjects_common.briefDescription.name': 'Artwork description',
+  'field.collectionobjects_common.contentConcept.fullName': 'Artwork tag',
+  'field.collectionobjects_common.contentConcept.name': 'Artwork tag',
   'field.collectionobjects_common.objectNameGroup.name': 'Work type',
   'field.collectionobjects_common.objectName.fullName': 'Work type',
   'field.collectionobjects_common.objectName.name': 'Type',
