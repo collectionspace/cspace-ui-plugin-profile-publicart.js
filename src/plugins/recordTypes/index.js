@@ -4,7 +4,9 @@ import collectionobject from './collectionobject';
 import concept from './concept';
 import conditioncheck from './conditioncheck';
 import conservation from './conservation';
+import deaccession from './deaccession';
 import exhibition from './exhibition';
+import exit from './exit';
 import group from './group';
 import intake from './intake';
 import iterationreport from './iterationreport';
@@ -26,7 +28,9 @@ export default [
   concept,
   conditioncheck,
   conservation,
+  deaccession,
   exhibition,
+  exit,
   group,
   intake,
   iterationreport,
