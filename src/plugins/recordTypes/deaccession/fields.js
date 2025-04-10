@@ -1,9 +1,5 @@
 export default (configContext) => {
   const {
-    AutocompleteInput,
-  } = configContext.inputComponents;
-
-  const {
     configKey: config,
   } = configContext.configHelpers;
 
@@ -15,7 +11,6 @@ export default (configContext) => {
             deaccessionApprovalIndividual: {
               [config]: {
                 view: {
-                  type: AutocompleteInput,
                   props: {
                     source: 'person/local,person/shared',
                   },
@@ -28,7 +23,6 @@ export default (configContext) => {
           exitRecipient: {
             [config]: {
               view: {
-                type: AutocompleteInput,
                 props: {
                   source: 'person/local,person/shared,organization/local,organization/shared',
                 },
