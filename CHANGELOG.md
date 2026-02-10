@@ -1,10 +1,15 @@
 # Change Log
 
+## v7.0.2
+v7.0.2 adds support for CollectionSpace 8.3.0, and requires cspace-ui version 10.2.0.
+
+- Added the Acquisition description free text field (`acquisitionDescription`) to the record editor for Acquisitions.
+
 ## v7.0.0
 
 v7.0.0 adds support for CollectionSpace 8.1, and requires cspace-ui version 10.
 
-- Aded the annotation group fields (`annotationGroupList/annotationGroup`) to the record editor for Object records.
+- Added the annotation group fields (`annotationGroupList/annotationGroup`) to the record editor for Object records.
 
 ### Breaking Changes
 

@@ -48,6 +48,8 @@ const template = (configContext) => {
               <Field name="owner" />
             </Field>
 
+            <Field name="acquisitionDescription" />
+
             <Field name="acquisitionReason" />
           </Col>
         </Cols>
