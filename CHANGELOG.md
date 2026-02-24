@@ -1,7 +1,7 @@
 # Change Log
 
-## v7.0.2
-v7.0.2 adds support for CollectionSpace 8.3.0, and requires cspace-ui version 10.2.0.
+## v7.1.0
+v7.1.0 adds support for CollectionSpace 8.3.0, and requires cspace-ui version 10.2.0.
 
 - Added the Acquisition description free text field (`acquisitionDescription`) to the record editor for Acquisitions.
 
