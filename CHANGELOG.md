@@ -1,5 +1,9 @@
 # Change Log
 
+## v7.2.0
+
+- Add `homeLocationGroupList` to the `default`, `tombstone` templates.
+
 ## v7.1.0
 v7.1.0 adds support for CollectionSpace 8.3.0, and requires cspace-ui version 10.2.0.
 
