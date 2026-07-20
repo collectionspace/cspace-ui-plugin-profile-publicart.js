@@ -25,6 +25,14 @@ const template = (configContext) => {
         <Cols>
           <Col>
             <Field name="acquisitionReferenceNumber" />
+
+            <Field name="alternativeIdentifierGroupList">
+              <Field name="alternativeIdentifierGroup">
+                <Field name="alternativeIdentifier" />
+                <Field name="alternativeIdentifierNote" />
+              </Field>
+            </Field>
+
             <Field name="accessionDate" subpath="ns2:acquisitions_publicart" />
 
             <InputTable name="acquisitionAuthorizer">
