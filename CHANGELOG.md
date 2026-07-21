@@ -2,7 +2,8 @@
 
 ## v7.2.0
 
-- Add `homeLocationGroupList` to the `default`, `tombstone` templates.
+- Added the Alternative Identifier group of fields (`alternativeIdentifierGroupList/alternativeIdentifierGroup`) to the record editor for Acquisitions.
+- Added `homeLocationGroupList` to the `default`, `tombstone` template for Collections Objects.
 
 ## v7.1.0
 v7.1.0 adds support for CollectionSpace 8.3.0, and requires cspace-ui version 10.2.0.
