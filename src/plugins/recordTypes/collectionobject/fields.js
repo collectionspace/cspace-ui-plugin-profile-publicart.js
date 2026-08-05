@@ -64,6 +64,19 @@ export default (configContext) => {
             },
           },
         },
+        homeLocationGroupList: {
+          homeLocationGroup: {
+            homeLocation: {
+              [config]: {
+                view: {
+                  props: {
+                    source: 'location/local,location/offsite,organization/local,organization/shared,place/local,place/shared',
+                  },
+                },
+              },
+            },
+          },
+        },
         objectNameList: {
           objectNameGroup: {
             objectName: {
