@@ -1,5 +1,9 @@
 # Change Log
 
+## v8.0.1
+
+- Suppress `homeLocation` and `homeLocationNote`
+
 ## v8.0.0
 
 v8.0.0 adds support for CollectionSpace 9.0, and requires cspace-ui version 11.
